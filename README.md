@@ -1,3 +1,1 @@
-# MNIST_fcnn
-# MNIST_fcnn
-# MNIST_fcnn
+<h1>Project for laboratories</h1>
